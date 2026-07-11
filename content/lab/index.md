@@ -3,5 +3,5 @@ title: Lab
 ---
 
 Security writeups, static & dynamic analysis notes, and CTF solutions.
+Currently super small due to recent setup change.
 
-This section is published from `/lab/Writeups` on my analysis machine.
